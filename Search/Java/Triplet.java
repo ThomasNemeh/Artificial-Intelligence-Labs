@@ -1,3 +1,8 @@
+/*
+ * Class to store data associated with a state in order to aid search.
+ * Author: Thomas Nemeh
+ */
+
 public class Triplet {
 	private final State state;
 	private final double cost;
